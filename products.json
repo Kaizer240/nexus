@@ -1,5 +1,33 @@
 [
   {
+    "id": "prod-17728814694965y2wi1pq9vn",
+    "name": "Panel Hosting 10GB",
+    "type": "panel",
+    "category": "Panel Hosting",
+    "thumbnail": "https://cdn.dongtube.my.id/6d66aab35f59.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "var-1772881469496",
+        "name": "10gb",
+        "price": 10000,
+        "description": "",
+        "stock": -1,
+        "plan": "10gb",
+        "daysOptions": [
+          30
+        ],
+        "dayPrices": {
+          "7": 0,
+          "14": 0,
+          "30": 10000
+        }
+      }
+    ]
+  },
+  {
     "id": "prod-1772881443521jsi6wrftt3",
     "name": "Panel Hosting 9GB",
     "type": "panel",
