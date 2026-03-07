@@ -1,5 +1,25 @@
 [
   {
+    "id": "prod-1772882248431xs21oeswdil",
+    "name": "Sewa Bot WhatsApp 1 Bulan",
+    "type": "sewabot",
+    "category": "Sewa Bot",
+    "thumbnail": "https://cdn.dongtube.my.id/03137c82c16a.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "v-1772882251767",
+        "name": "Sewa Bot WhatsApp 1 Bulan",
+        "description": "",
+        "price": 15000,
+        "days": 30,
+        "stock": -1
+      }
+    ]
+  },
+  {
     "id": "prod-17728821641918pc4k2oebdx",
     "name": "Sewa Bot WhatsApp 14 Hari",
     "type": "sewabot",
