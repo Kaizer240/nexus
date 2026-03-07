@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "prod-1772881207013p4waszkf0dk",
+    "name": "Panel Hosting 1GB",
+    "type": "panel",
+    "category": "Panel Hosting",
+    "thumbnail": "https://cdn.dongtube.my.id/6d66aab35f59.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "var-1772881207011",
+        "name": "1gb",
+        "price": 1000,
+        "description": "",
+        "stock": -1,
+        "plan": "1gb",
+        "daysOptions": [
+          30
+        ],
+        "dayPrices": {
+          "7": 0,
+          "14": 0,
+          "30": 1000
+        }
+      }
+    ]
+  }
+]
