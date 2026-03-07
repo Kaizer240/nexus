@@ -1,5 +1,33 @@
 [
   {
+    "id": "prod-1772881490776nuwhn3kwvh9",
+    "name": "Panel Hosting UNLIMITED",
+    "type": "panel",
+    "category": "Panel Hosting",
+    "thumbnail": "https://cdn.dongtube.my.id/6d66aab35f59.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "var-1772881490776",
+        "name": "unlimited",
+        "price": 12000,
+        "description": "",
+        "stock": -1,
+        "plan": "unlimited",
+        "daysOptions": [
+          30
+        ],
+        "dayPrices": {
+          "7": 0,
+          "14": 0,
+          "30": 12000
+        }
+      }
+    ]
+  },
+  {
     "id": "prod-17728814694965y2wi1pq9vn",
     "name": "Panel Hosting 10GB",
     "type": "panel",
