@@ -18,7 +18,7 @@
   "phone": null,
   "qrBase64": null,
   "pakData": null,
-  "status": "COMPLETED",
+  "status": "EXPIRED",
   "createdAt": 1772880112186,
   "expiryAt": 1772881012186,
   "freeProduct": true,
@@ -38,5 +38,8 @@
     "serverId": 98,
     "userId": 95
   },
-  "completedAt": 1772880118705
+  "completedAt": 1772880118705,
+  "_panelDeleted": true,
+  "_deletedAt": 1772880303710,
+  "_deletedBy": "admin"
 }
