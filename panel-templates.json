@@ -1,0 +1,288 @@
+[
+  {
+    "id": "1gb",
+    "name": "1GB",
+    "active": true,
+    "ram": 1000,
+    "disk": 3000,
+    "cpu": 100,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "2gb",
+    "name": "2GB",
+    "active": true,
+    "ram": 2000,
+    "disk": 6000,
+    "cpu": 190,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "3gb",
+    "name": "3GB",
+    "active": true,
+    "ram": 3000,
+    "disk": 7000,
+    "cpu": 250,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "4gb",
+    "name": "4GB",
+    "active": true,
+    "ram": 4000,
+    "disk": 9000,
+    "cpu": 290,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "5gb",
+    "name": "5GB",
+    "active": true,
+    "ram": 5000,
+    "disk": 13000,
+    "cpu": 330,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "6gb",
+    "name": "6GB",
+    "active": true,
+    "ram": 6000,
+    "disk": 15000,
+    "cpu": 450,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "7gb",
+    "name": "7GB",
+    "active": true,
+    "ram": 7000,
+    "disk": 17000,
+    "cpu": 500,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "10gb",
+    "name": "10GB",
+    "active": true,
+    "ram": 10000,
+    "disk": 20000,
+    "cpu": 600,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "unlimited",
+    "name": "UNLIMITED",
+    "active": true,
+    "ram": 0,
+    "disk": 25000,
+    "cpu": 0,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "8gb",
+    "name": "8GB",
+    "active": true,
+    "ram": 8000,
+    "disk": 2048,
+    "cpu": 550,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  },
+  {
+    "id": "plan11",
+    "name": "Plan Baru",
+    "active": true,
+    "ram": 9000,
+    "disk": 2048,
+    "cpu": 100,
+    "io": 500,
+    "swap": 0,
+    "egg": 15,
+    "nest": 5,
+    "location": 1,
+    "docker_image": "ghcr.io/parkervcp/yolks:nodejs_20",
+    "startup": "",
+    "environment": {
+      "INST": "npm",
+      "USER_UPLOAD": "0",
+      "AUTO_UPDATE": "0",
+      "CMD_RUN": "npm start"
+    },
+    "feature_limits": {
+      "databases": 5,
+      "backups": 5,
+      "allocations": 5
+    }
+  }
+]
