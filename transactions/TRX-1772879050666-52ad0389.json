@@ -18,11 +18,16 @@
   "phone": null,
   "qrBase64": null,
   "pakData": null,
-  "status": "FREE_PENDING",
+  "status": "PAID_ERROR",
   "createdAt": 1772879050716,
   "expiryAt": 1772879950716,
   "freeProduct": true,
   "voucherCode": null,
   "voucherDiscount": 0,
-  "demo": true
+  "demo": true,
+  "error": "Request failed with status code 404",
+  "result": {
+    "type": "error",
+    "message": "Terjadi kesalahan. Hubungi admin. ID: TRX-1772879050666-52ad0389"
+  }
 }
