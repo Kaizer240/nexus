@@ -1,5 +1,33 @@
 [
   {
+    "id": "prod-177288141910191d5s5vo439",
+    "name": "Panel Hosting 8GB",
+    "type": "panel",
+    "category": "Panel Hosting",
+    "thumbnail": "https://cdn.dongtube.my.id/6d66aab35f59.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "var-1772881419101",
+        "name": "8gb",
+        "price": 8000,
+        "description": "",
+        "stock": -1,
+        "plan": "8gb",
+        "daysOptions": [
+          30
+        ],
+        "dayPrices": {
+          "7": 0,
+          "14": 0,
+          "30": 8000
+        }
+      }
+    ]
+  },
+  {
     "id": "prod-1772881394266ld3jx0p5uke",
     "name": "Panel Hosting 7GB",
     "type": "panel",
