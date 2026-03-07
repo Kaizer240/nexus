@@ -1,5 +1,28 @@
 [
   {
+    "id": "prod-1772882338253xqgknuay22i",
+    "name": "Auto Order Telegram",
+    "type": "download",
+    "category": "Script Bot",
+    "thumbnail": "https://cdn.dongtube.my.id/e3439a2bdc06.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "v-1772882347039",
+        "name": "",
+        "description": "no update",
+        "price": 15000,
+        "contentType": "file",
+        "contentText": "",
+        "contentUrl": "https://drive.google.com/file/d/1026NvHX1ZF6O2LhQ2odcUWXEh9NwGO_v/view?usp=drivesdk",
+        "stock": -1,
+        "filename": "auto order tele.zip"
+      }
+    ]
+  },
+  {
     "id": "prod-1772882248431xs21oeswdil",
     "name": "Sewa Bot WhatsApp 1 Bulan",
     "type": "sewabot",
