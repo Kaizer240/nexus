@@ -1,5 +1,11 @@
 [
   {
+    "ts": 1772880332075,
+    "action": "delete-panel",
+    "detail": "Server 98 | trx:TRX-1772880112148-a8c77db6",
+    "ip": "114.10.98.58"
+  },
+  {
     "ts": 1772880329806,
     "action": "reinstall",
     "detail": "Server 98",
