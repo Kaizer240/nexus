@@ -1,5 +1,35 @@
 [
   {
+    "id": "prod-1772881276396hmzya0xahii",
+    "name": "Panel Hosting 4GB",
+    "type": "panel",
+    "category": "Panel Hosting",
+    "thumbnail": "https://cdn.dongtube.my.id/6d66aab35f59.jpg",
+    "description": "",
+    "active": true,
+    "isNew": true,
+    "variants": [
+      {
+        "id": "var-1772881276396",
+        "name": "4gb",
+        "price": 4000,
+        "description": "",
+        "stock": -1,
+        "plan": "4gb",
+        "daysOptions": [
+          7,
+          14,
+          30
+        ],
+        "dayPrices": {
+          "7": 0,
+          "14": 0,
+          "30": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "prod-177288125285280mdv6mpi26",
     "name": "Panel Hosting 3GB",
     "type": "panel",
