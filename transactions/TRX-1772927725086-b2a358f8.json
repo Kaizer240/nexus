@@ -35,5 +35,7 @@
   "freeProduct": false,
   "voucherCode": null,
   "voucherDiscount": 0,
-  "demo": false
+  "demo": false,
+  "adminNote": "",
+  "updatedAt": 1772934263936
 }
