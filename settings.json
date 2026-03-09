@@ -17,7 +17,7 @@
   "musicEnabled": false,
   "captchaEnabled": false,
   "depositFeeType": "flat",
-  "depositFee": 100,
+  "depositFee": 168,
   "depositMin": 1000,
   "bgUrl": "",
   "bgType": "image",
