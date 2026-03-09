@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vc-1773062286220",
+    "code": "PROMO1268",
+    "type": "nominal",
+    "value": 5000,
+    "minOrder": 15000,
+    "maxDiscount": 0,
+    "usedCount": 0,
+    "maxUse": 1,
+    "expiresAt": 1773148680000,
+    "active": true,
+    "productIds": [],
+    "desc": ""
+  }
+]
