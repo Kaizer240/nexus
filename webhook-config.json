@@ -1,5 +1,5 @@
 {
-  "url": "",
+  "url": "http://nexus.dongtube.my.id:3000/api/webhook",
   "secret": "",
   "enabled": false
 }
