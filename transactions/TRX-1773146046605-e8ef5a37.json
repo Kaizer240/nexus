@@ -18,11 +18,25 @@
   "phone": null,
   "qrBase64": null,
   "pakData": null,
-  "status": "FREE_PENDING",
+  "status": "COMPLETED",
   "createdAt": 1773146046606,
   "expiryAt": 1773146946606,
   "freeProduct": true,
   "voucherCode": null,
   "voucherDiscount": 0,
-  "demo": true
+  "demo": true,
+  "result": {
+    "type": "panel",
+    "username": "ryy",
+    "password": "ryy001",
+    "domain": "https://manszyoffc.rghost.web.id",
+    "ram": "7.0GB",
+    "disk": "17.0GB",
+    "cpu": "500%",
+    "days": 30,
+    "expiresAt": 1775738052456,
+    "serverId": 237,
+    "userId": 258
+  },
+  "completedAt": 1773146053526
 }
