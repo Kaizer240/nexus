@@ -1,5 +1,5 @@
 {
-  "url": "http://jarxmarket:3545/api/webhook",
-  "secret": "rahasia_verifikasi_123",
+  "url": "",
+  "secret": "",
   "enabled": true
 }
