@@ -18,11 +18,22 @@
   "phone": null,
   "qrBase64": null,
   "pakData": null,
-  "status": "FREE_PENDING",
+  "status": "COMPLETED",
   "createdAt": 1773164106026,
   "expiryAt": 1773165006026,
   "freeProduct": true,
   "voucherCode": null,
   "voucherDiscount": 0,
-  "demo": true
+  "demo": true,
+  "result": {
+    "type": "content",
+    "contentType": "text",
+    "contentUrl": "",
+    "contentText": "Auto Order Telegram berhasil!\nID: TRX-1773164106026-b51c9724",
+    "title": "Auto Order Telegram",
+    "description": "",
+    "filename": "produk",
+    "productName": "Auto Order Telegram"
+  },
+  "completedAt": 1773164116187
 }
