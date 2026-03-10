@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "vc-1773144658684",
+    "code": "PROMO5227",
+    "type": "nominal",
+    "value": 2000,
+    "minOrder": 1000,
+    "maxDiscount": 0,
+    "usedCount": 0,
+    "maxUse": 0,
+    "expiresAt": null,
+    "active": true,
+    "productIds": [],
+    "desc": ""
+  }
+]
