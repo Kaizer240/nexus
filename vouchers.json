@@ -7,7 +7,7 @@
     "minOrder": 1000,
     "maxDiscount": 0,
     "usedCount": 0,
-    "maxUse": 0,
+    "maxUse": 1,
     "expiresAt": null,
     "active": true,
     "productIds": [],
