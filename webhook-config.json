@@ -1,5 +1,5 @@
 {
   "url": "http://nexus.dongtube.my.id:3000/api/webhook",
-  "secret": "MEMBER_DONGTUBE_RAHASIA",
+  "secret": "rahasia_verifikasi_123",
   "enabled": true
 }
