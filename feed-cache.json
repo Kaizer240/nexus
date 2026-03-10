@@ -1,5 +1,12 @@
 [
   {
+    "id": "TRX-1773164106026-b51c9724",
+    "type": "order",
+    "ts": 1773164116591,
+    "label": "Auto Order Telegram",
+    "amount": 0
+  },
+  {
     "id": "TRX-1773164022771-1995caa8",
     "type": "order",
     "ts": 1773164026668,
